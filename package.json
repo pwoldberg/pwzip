@@ -1,0 +1,15 @@
+{
+  "name": "pwzip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Woldberg",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.48",
+    "fs-extra": "^9.0.0"
+  }
+}
