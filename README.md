@@ -1,0 +1,2 @@
+# pwzip
+Node Zip Library
